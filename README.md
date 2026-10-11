@@ -93,3 +93,7 @@ The simulation does not establish real-world measurement accuracy, true-RMS perf
 ## Author
 
 Sohan H. R.
+
+## Circuit Diagram
+
+![Smart Energy Meter Circuit](project%20circuit%20pic.png)
