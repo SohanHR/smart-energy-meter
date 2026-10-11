@@ -93,7 +93,3 @@ The simulation does not establish real-world measurement accuracy, true-RMS perf
 ## Author
 
 Sohan H. R.
-
-## License
-
-A license can be added if the project is intended for public reuse or modification.
